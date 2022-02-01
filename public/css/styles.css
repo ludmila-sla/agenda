@@ -1,0 +1,17 @@
+#cards-container {
+    padding-top: 30px;
+
+  
+  }
+  #cards-container .card{
+    padding-top: 30px;
+    background-color: #363a38;
+    color:white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: .5%;
+    height: auto;
+    width: 250px;
+  }
+  
+ 
